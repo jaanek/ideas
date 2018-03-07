@@ -7,8 +7,9 @@ App on phone has access to your existing and future contacts.
 What problem it solves?
 Helps to connect you with your ring of professionals/counsils to solve your 
 everyday work/entrepreneurship issues and lets pay them for their professional time.
-Me can search for a help and pay for a person's time with a Crypto. Like having 
-a consultant lists to meet them physically/over the phone in regions and pay 
+Me can search for a help and pay for a person's time with a Crypto 
+(in Lumens or in other assets/tokens). It's having 
+a consultant lists to meet them physically in certain regions or over the phone and pay 
 with crypto for their time.
 
 Use case 1: Ordinary working day (or in foreign country) and an issue pops up. 
