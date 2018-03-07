@@ -31,7 +31,7 @@ Target users:
 Freelancers, Entrepreuners, Startup-ers, Persons working online.
 
 Business model:
-A small transaction fee for each transaction (and select max. 3 professionals to send with network fees) ???
+A small transaction fee for each transaction (and select max. 3 professionals to send with network fees - locked for 1 month) ???
 
 Competitors:
 earn.com, others ... have not done any big research for it yet
