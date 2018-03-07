@@ -1,6 +1,6 @@
 An App Idea from my Crypto enthusiasm :)
 
-App Name: myring.io
+App Name: myring.io - My professional counsils
 
 Phone app only, initially. And a simple website just to download the phone app. 
 App on phone has access to your existing and future contacts.
