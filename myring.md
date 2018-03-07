@@ -1,4 +1,3 @@
-An App Idea from my Crypto enthusiasm :)
 
 App Name: myring.io - My professional counsils
 
