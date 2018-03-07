@@ -27,6 +27,7 @@ with 20$ on their phone screen).
 * Response 3: My hourly rate is 50$, does that suit you? 
 * Response 3: Rejection with no message.
 
+Payments are done in Cryptos :)
 
 Target users:
 Freelancers, Entrepreuners, Startup-ers, Persons working online.
