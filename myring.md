@@ -5,12 +5,10 @@ Phone app only, initially. And a simple website just to download the phone app.
 App on phone has access to your existing and future contacts.
 
 What problem it solves?
-Helps to connect you with your ring of professionals/counsils to solve your 
+Helps to connect you with your ring of professionals/counsils (or extend your ring) to solve your 
 everyday work/entrepreneurship issues and lets pay them for their professional time.
 Me can search for a help and pay for a person's time with a Crypto 
-(in Lumens or in other assets/tokens). It's having 
-a consultant lists to meet them physically in certain regions or over the phone and pay 
-with crypto for their time.
+(in Lumens or in other assets/tokens). 
 
 Use case 1: Ordinary working day (or in foreign country) and an issue pops up. 
 Me opening the app, submitting a search for "legal issue", "web design", etc. 
