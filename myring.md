@@ -10,14 +10,15 @@ everyday work/entrepreneurship issues and lets pay them for their professional t
 Me can search for a help and pay for a person's time with a Crypto 
 (in Lumens or in other assets/tokens). 
 
-Use case 1: Ordinary working day (or in foreign country) and an issue pops up. 
+Use case 1: 
+Ordinary working day (or in foreign country) and an issue pops up. 
 Me opening the app, submitting a search for "legal issue", "web design", etc. 
 and providing an area "Tallinn" and there comes a list of persons (from my 
 ring initially, or making a click for extending to public lists) 
 or selecting a known professional directly (knowing he is good) to ask help for money
 or just tipping later that person with certain amount of money after a call - call ends, make a tip.
 
-Me contacting: 
+Me contacting:
 * Hey, I want to pay you 20$ of value for 1h of discussion of my issue here. 
 Are you in? (Me selecting from options 20$ and the recipient receives a possible income alert 
 with 20$ on their phone screen). 
