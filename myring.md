@@ -2,7 +2,7 @@ An App Idea from my Crypto enthusiasm :)
 
 App Name: myring.io
 
-Phone app only, initially. And a simple web just to download the phone app. 
+Phone app only, initially. And a simple website just to download the phone app. 
 App on phone has access to your existing and future contacts.
 
 What problem it solves?
